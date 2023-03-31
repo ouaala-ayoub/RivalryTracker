@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fifa score</string>
+    <string name="Cancel">Annuler</string>
+    <string name="Oui">Oui</string>
+    <string name="add_dialog_title">Entrez les informations</string>
+    <string name="percentage">%1$d %%</string>
+    <string name="delete_rivalry_title">Supprimer</string>
+    <string name="delete_rivalry_message">Vous etes sure ?</string>
+    <string name="team1">team1</string>
+    <string name="team2">team2</string>
+    <string name="score1">score1</string>
+    <string name="score2">score2</string>
+</resources>
